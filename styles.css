@@ -98,15 +98,23 @@ h2{
 }
 .item-1a{
     justify-self:center;
+    
 }
 .item-2a{
     justify-self:center;
+    
 }
 .item-3a{
     justify-self:center;
+    
 }
 .item-4a{
     justify-self:center;
+    
+}
+.project{
+    width:50%;
+    margin-left:10%;
 }
 footer{
     background-color:#4c0c5c;
