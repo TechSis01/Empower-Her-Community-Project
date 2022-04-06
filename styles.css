@@ -137,6 +137,9 @@ input{
 h1{
     color:white;
 }
+.project-link{
+    text-decoration: none;
+}
 footer p{
     color:white;
 }
