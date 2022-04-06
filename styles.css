@@ -89,6 +89,16 @@ h2{
     padding:5% 10%;
     border-radius: 10px;
 }
+.item-1:hover{
+    background-color: lightblue;
+}
+.item-2:hover{
+    background-color: lightblue;
+}
+.item-3:hover{
+    background-color: lightblue;
+}
+
 .grid-container-2{
     display:grid;
     grid-template-columns:repeat(2,1fr);
