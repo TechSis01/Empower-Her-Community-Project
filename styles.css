@@ -94,7 +94,7 @@ h2{
     grid-template-columns:repeat(2,1fr);
     justify-content: center;
    grid-gap:20%;
-   margin-bottom:5%;
+   margin-bottom:10%;
 }
 .item-1a{
     justify-self:center;
